@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+</div>
+  
 <!--
 **Rianito/Rianito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
