@@ -1,6 +1,5 @@
 ### Hi there 👋
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 </div>
   
 <!--
