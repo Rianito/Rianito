@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/Rianito">
-    <img height="200em" width = "400em" align="left" src="https://github-readme-stats.vercel.app/api?username=Rianito&show_icons=true&theme=react&include_all_commits=false&count_private=false"/>
-    <img height="200em" width = "400em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianito&layout=compact&langs_count=3&theme=react" />
+    <img height="200em" width = "400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianito&layout=compact&langs_count=3&theme=react" />
     </div>
  <br>
   <div align="center"> 
